@@ -2,7 +2,7 @@
   "name": "command-project-JS",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/command-project-JS",
+  "homepage": "https://GannaKov.github.io/command-project-JS",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /command-project-JS/"
