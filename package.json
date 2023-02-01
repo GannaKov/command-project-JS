@@ -1,15 +1,15 @@
 {
-  "name": "command-project-JS",
+  "name": "command-project-js",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://GannaKov.github.io/command-project-JS",
+  "homepage": "https://GannaKov.github.io/command-project-js",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /command-project-JS/"
+    "build": "parcel build src/*.html --public-url /command-project-js/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArtemTeslenko/command-project-JS.git"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
